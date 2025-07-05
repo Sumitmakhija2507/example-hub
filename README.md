@@ -39,7 +39,7 @@ language, description, and tags to help you find what you need quickly.
 | [python/pancacke-swap](./python/pancake-swap-example)  | Python     | PancakeSwap integration example              | DeFi, DEX, BSC      |
 | [typescript/bnbchain-mcp](./typescript/bnbchain-mcp)   | TypeScript | AI-powered blockchain assistant using Claude | AI, BSC, MCP        |
 | [typescript/eliza-chatbot](./typescript/eliza-chatbot) | TypeScript | A chatbot example using Eliza plugin-bnb     | AI, BSC, opBNB      |
-
+| [javascript/bnb greenfield file upload service - complete implementation guide](./javascript/bnb greenfield file upload service - complete implementation guide) | Javascript | This Node.js application provides a working implementation for uploading files to BNB Greenfield, a decentralized storage network. The service handles the complete upload process including object creation on-chain, transaction broadcasting, and file data upload to storage providers. | BSC, Greenfield, BNB |
 More examples are coming soon—stay tuned for updates!
 
 ## How to Add a New Example
